@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d6f0a9103c033bc5",
+        "id": "cec2e4e1550585d7",
         "type": "tabs",
         "children": [
           {
-            "id": "39465a0da4ef94eb",
+            "id": "de6565ba665e1d80",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -40,7 +40,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "类似",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -123,6 +123,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39465a0da4ef94eb",
-  "lastOpenFiles": []
+  "active": "de6565ba665e1d80",
+  "lastOpenFiles": [
+    "29.01.24.md",
+    "28.01.24.md",
+    "Untitled",
+    "26.01.24.md",
+    "27.01.24.md",
+    "21.01.24.md",
+    "22.01.24.md",
+    "Untitled.canvas"
+  ]
 }
